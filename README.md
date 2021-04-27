@@ -11,7 +11,7 @@
 ├── README.md
 └── git-images ('Images for markdown')
 ```
-I love to solve real-world and impacting problems, that's why for this project I will be solving a very important shortage. There is simply not enough Anime Characters in the world!
+I love to solve real-world and impacting problems, that's why for this project I will be solving a very important shortage... Anime Characters!
 
 Jokes aside image generation is a super exciting field, solutions are visual so when they work they feel tangible and are great at showcasing the power of machine learning to a non-technical audience. Unfortunately, I often neglect them as they don't often align with the business drivers for my work. They also require considerable amounts of graphical computing, often a bit more than my poor MacBook can push. For this project I will be showing off the power of GAN networks, using as little processing power as I can get away with (Hense the Anime dataset).
 
