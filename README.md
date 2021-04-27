@@ -1,6 +1,16 @@
 # MachineLearning-AnimeFactory
 ### Project from the Python Image Processing Cookbook 
 
+```bash
+├── SRC
+│   ├── discriminator.py (CNN 2)
+│   ├── generator.py (CNN 1)
+├── training-data (Unpack Dataset Here)
+├── AnimeFactory.py (Run me)
+├── LICENSE
+├── README.md
+└── git-images (Images for markdown)
+```
 I love to solve real-world and impacting problems, that's why for this project I will be solving a very important shortage. There is simply not enough Anime Characters in the world!
 
 Jokes aside image generation is a super exciting field, solutions are visual so when they work they feel tangible and are great at showcasing the power of machine learning to a non-technical audience. Unfortunately, I often neglect them as they don't often align with the business drivers for my work. They also require considerable amounts of graphical computing, often a bit more than my poor MacBook can push. For this project I will be showing off the power of GAN networks, using as little processing power as I can get away with (Hense the Anime dataset).
@@ -26,10 +36,6 @@ Every Epoch a sample of the faces created will be saved so you can see how the m
 <img src="https://github.com/MatthewBoyce/MachineLearning-AnimeFactory/blob/main/git-images/sample_4.png?raw=true"/>
 
 <img src="https://github.com/MatthewBoyce/MachineLearning-AnimeFactory/blob/main/git-images/sample_5.png?raw=true"/>
-
-<img src="https://github.com/MatthewBoyce/MachineLearning-AnimeFactory/blob/main/git-images/sample_8.png?raw=true"/>
-
-<img src="https://github.com/MatthewBoyce/MachineLearning-AnimeFactory/blob/main/git-images/sample_10.png?raw=true"/>
 
 <img src="https://github.com/MatthewBoyce/MachineLearning-AnimeFactory/blob/main/git-images/sample_15.png?raw=true"/>
 
