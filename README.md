@@ -3,13 +3,13 @@
 
 ```bash
 ├── SRC
-│   ├── discriminator.py (CNN 2)
-│   ├── generator.py (CNN 1)
-├── training-data (Unpack Dataset Here)
-├── AnimeFactory.py (Run me)
+│   ├── discriminator.py ('CNN 2')
+│   ├── generator.py ('CNN 1')
+├── training-data ('Unpack Dataset Here')
+├── AnimeFactory.py ('Run me')
 ├── LICENSE
 ├── README.md
-└── git-images (Images for markdown)
+└── git-images ('Images for markdown')
 ```
 I love to solve real-world and impacting problems, that's why for this project I will be solving a very important shortage. There is simply not enough Anime Characters in the world!
 
